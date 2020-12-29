@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "Execute py",
-            "command": "python3",
+            "command": "python",
             "args": ["${file}"],
             "group": "test",
             "options": {
